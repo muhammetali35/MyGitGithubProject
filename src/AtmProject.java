@@ -12,7 +12,7 @@ public class AtmProject {
         System.out.println("Bir kısım kodlar");
         //mht2
 
-
+          remote değişiklik yaptım.
     }
 
 
